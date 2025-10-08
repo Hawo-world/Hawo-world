@@ -15,7 +15,7 @@ Guided by a passion for leadership and innovation, a strong commitment to educat
 
 ### 🎮 Outside of Code & Studying  
 - I enjoy gaming, watching my shows, & with a snack in hand 🍡
-- 🕹 [Lets Play](#)
+- 🕹 
 ---
 
 ### 🧭 Currently Exploring
