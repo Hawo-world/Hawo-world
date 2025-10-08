@@ -2,25 +2,24 @@
 
 ### 🧠  Cybersecurity & Threat Intelligence Enthusiast  
 
-I believe **knowledge is power**, and I treat curiosity as fuel.  
-My passion lies in **Cybersecurity**, particularly in **Threat Intelligence**,  👾 **jack of all trades**, turning curiosity into practical projects across domains. 
+Technology is only as strong as the trust behind it. I aim to bridge the gap between innovation and security—so progress doesn’t come at the cost of safety.
+👾 **jack of all trades**, turning curiosity into practical projects across domains. 
 
 ---
 
-### 💻 What I Do  
-- 🕵️‍♀️ Investigate and analyze digital threats  
-- ⚙️ Build practical tools to turn theory into application  
-- 🧩 Experiment across tech domains — because I can’t stop learning  
-- 🌐 Share what I learn, one project at a time  
+### 💻 About Me  
+- Currently pursuing a dual major in Computer & Data Science, 
+Guided by a passion for leadership and innovation, a strong commitment to education, and a global perspective.
 
 ---
 
 ### 🎮 Outside of Code & Studying  
 - I enjoy gaming, watching my shows, & with a snack in hand 🍡
-
+- 🕹 [Lets Play](#)
 ---
 
-### 🧭 Currently Exploring  
+### 🧭 Currently Exploring
+- Cyber Forensics 
 - SOC Operations & Threat Hunting  
 - OSINT & Cyber Threat Intelligence  
 - Python automation projects  
