@@ -2,7 +2,7 @@
 
 ### 🧠  Cybersecurity & Threat Intelligence Enthusiast  
 
-Technology is only as strong as the trust behind it. I aim to bridge the gap between innovation and security—so progress doesn’t come at the cost of safety.
+**Technology is only as strong as the trust behind it.** - I aim to bridge the gap between innovation and security—so progress doesn’t come at the cost of safety.
 👾 **jack of all trades**, turning curiosity into practical projects across domains. 
 
 ---
