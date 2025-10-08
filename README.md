@@ -3,7 +3,7 @@
 ### 🧠  Cybersecurity & Threat Intelligence Enthusiast  
 
 I believe **knowledge is power**, and I treat curiosity as fuel.  
-My passion lies in **Cybersecurity**, particularly in **Threat Intelligence**,  **jack of all trades** —  exploring everything from data analysis to development to automation.  
+My passion lies in **Cybersecurity**, particularly in **Threat Intelligence**,  👾 **jack of all trades**, turning curiosity into practical projects across domains. 
 
 ---
 
