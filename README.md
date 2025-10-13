@@ -13,11 +13,6 @@ Guided by a passion for leadership and innovation, a strong commitment to educat
 
 ---
 
-### 🎮 Outside of Code & Studying  
-- I enjoy gaming, watching my shows, & with a snack in hand 🍡
-- 🕹 
----
-
 ### 🧭 Currently Exploring
 - Cyber Forensics 
 - SOC Operations & Threat Hunting  
