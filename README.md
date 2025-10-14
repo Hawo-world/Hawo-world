@@ -6,13 +6,14 @@
 
 🎓 Dual Majoring in Computer Science & Data Science 
 
-👾 **jack of all trades**, turning curiosity into practical projects across domains. 
 **Technology is only as strong as the trust behind it.**
+👾 **jack of all trades**, turning curiosity into practical projects across domains. 
 
 --- 
 
 ### 🧰 Tech Stack
 💻 Python | Bash | SQL | Linux | Docker | Wireshark | Splunk | Pandas | Scikit-learn  
+
 
 ### 🚀 Featured Projects
 -  [Cloud Log Analyzer](https://github.com/Hawo-world/cloud-log-analyzer): Detects failed logins & suspicious IPs from cloud auth logs   
