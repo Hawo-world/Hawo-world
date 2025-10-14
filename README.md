@@ -6,9 +6,7 @@
 
 🎓 Dual Majoring in Computer Science & Data Science 
 
-**Technology is only as strong as the trust behind it.**
-
-👾 **jack of all trades**, turning curiosity into practical projects across domains. 
+**Technology is only as strong as the trust behind it.** | 👾  **jack of all trades**, turning curiosity into practical projects across domains. 
 
 --- 
 
