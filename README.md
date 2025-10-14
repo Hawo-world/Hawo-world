@@ -1,6 +1,6 @@
-# 😼 Hey there, I'm Hawo-world
+# 😼 Hi there, I'm Hawo-world
 
-### 🧠  Cybersecurity & Threat Intelligence Enthusiast  
+### 🧠  Cybersecurity & Threat Intelligence Focused
 
 ---
 
