@@ -17,7 +17,7 @@
 ### 🚀 Featured Projects
 -  [Cloud Log Analyzer](https://github.com/Hawo-world/cloud-log-analyzer): Detects failed logins & suspicious IPs from cloud auth logs   
 -  [Data Pipeline Project](https://github.com/Hawo-world/cloud-data-pipeline): API data ETL → SQLite dashboard
--  [Computer Networks, a system approach | Study](https://github.com/Hawo-world/Networks-A-System-Approach): My shared simplified Study notes on this book.
+-  [Computer Networks, a system approach Study](https://github.com/Hawo-world/Networks-A-System-Approach): My shared simplified Study notes on this book.
 
 ###  Currently Learning
 SOC automation, malware analysis, and advanced Python scripting  
