@@ -1,5 +1,5 @@
 
-### 😼 About
+### 😼 Welcome!
 
 I’m **Harm**, Founder and Programmer of Hawo-world. | 🎓Masters Student Dual Majoring in Computer & Data Science.
 
