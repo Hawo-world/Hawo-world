@@ -1,9 +1,9 @@
 
 ### 😼 About
 
-I’m **Harm**, Founder and Programmer of Hawo-world; A space where I build, experiment, and share open-source projects focused on **cybersecurity, threat intelligence, & digital forensics.**.
+I’m **Harm**, Founder and Programmer of Hawo-world.
 
-🎓 Dual Majoring in Computer Science & Data Science. 
+🎓 Dual Majoring in Computer Science & Data Science. Guided by a passion for leadership and innovation, I build, experiment, and share open-source projects focused on **cybersecurity, threat intelligence, & digital forensics.**.I aim to bridge the gap between innovation and security—so progress doesn’t come at the cost of safety.
 
 ---
 
