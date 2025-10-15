@@ -1,13 +1,11 @@
 
 ### 😼 About
-I’m **Harm**, Founder and Programmer of Hawo-world. | 🎓 Dual Majoring in Computer Science & Data Science. | 
-Through *Hawo-world*, I explore how data, code, and curiosity can be used to uncover and prevent modern cyber threats.
+
+I’m **Harm**, Founder and Programmer of Hawo-world; A space where I build, experiment, and share open-source projects focused on **cybersecurity, threat intelligence, & digital forensics.**.
+
+🎓 Dual Majoring in Computer Science & Data Science. 
 
 ---
-
-🎓 Dual Majoring in Computer Science & Data Science 
-
-Welcome to **Hawo-world** — a space where I build, experiment, and share open-source projects focused on **cybersecurity, threat intelligence, & digital forensics.**.
 
 > “Technology is only as strong as the trust behind it.”
 
