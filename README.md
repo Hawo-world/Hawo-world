@@ -1,12 +1,15 @@
-# 😼 Hi there, I'm Harm
 
-### 🧠  Cybersecurity & Threat Intelligence Focused
+### 😼 About
+I’m **Harm**, Founder and Programmer of Hawo-world. | 🎓 Dual Majoring in Computer Science & Data Science. | 
+Through *Hawo-world*, I explore how data, code, and curiosity can be used to uncover and prevent modern cyber threats.
 
 ---
 
 🎓 Dual Majoring in Computer Science & Data Science 
 
-**Technology is only as strong as the trust behind it.** | 👾  **jack of all trades**, turning curiosity into practical projects across domains. 
+Welcome to **Hawo-world** — a space where I build, experiment, and share open-source projects focused on **cybersecurity, threat intelligence, & digital forensics.**.
+
+> “Technology is only as strong as the trust behind it.”
 
 --- 
 
@@ -21,6 +24,15 @@
 
 ###  Currently Learning
 SOC automation, malware analysis, and advanced Python scripting  
+
+###  Areas of Focus
+- Threat Intelligence | Digital Forensics
+- Data Science & Analytics  
+- Security Automation & SOC Operations  
+- Data-Driven Detection Engineering  
+- Python-based Tools for Security Research
+- malware analysis  
+
 
 📫 **Let’s connect:** [LinkedIn](www.linkedin.com/in/haw0) | [Email Me](hawo_world@protonmail.com) 
  
