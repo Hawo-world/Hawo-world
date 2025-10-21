@@ -3,7 +3,7 @@
 
 ### 😼 Welcome!
 
-I’m **Harm**,  Founder and Programmer | 🎓Masters Student Dual Majoring in Computer & Data Science.
+I’m **Harm**,  Founder and Developer | 🎓Masters Student Dual Majoring in Computer & Data Science.
 
 Guided by a passion for leadership and innovation; I build, experiment, and share open-source projects focused on **cybersecurity, threat intelligence, & digital forensics.**
 
